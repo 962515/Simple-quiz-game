@@ -4,6 +4,6 @@ This project is a straightforward quiz game implemented in [programming language
 It features multiple-choice questions and includes a score tracking mechanism to keep players engaged.
 
 # Features
-Multiple choice questions
-Score tracking
+Multiple choice questions,
+Score tracking,
 feedback
